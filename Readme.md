@@ -1,6 +1,5 @@
 Book Management System Project
 =============================
-{: .text-center }
 
 1. 프로젝트 개요
 	<table border="1">
@@ -17,6 +16,7 @@ Book Management System Project
 2. 프로젝트 목표 및 요구사항
 
 쉽고 편리하고 신뢰할 수 있는 전사 통합정보시스템 구축
+{: .text-center }
 
 - AWS기반의 웹 도서 주문시스템을 구축
 - 구현과 수정이 용이한 시스템의 구축
