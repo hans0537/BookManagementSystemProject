@@ -1,8 +1,7 @@
-<center>Book Management System Project</center>
+Book Management System Project
 =============================
 
 1. 프로젝트 개요
-| th | th |
 | 프로젝트 명 | AWS 기반 웹 주문시스템 구축 |
 | 투입공수 | 2M/M | 
 
@@ -54,4 +53,36 @@
 | 구 분 | 용 도 | 명칭 및 버전 |
 | 구 분 | 용 도 | 명칭 및 버전 |
 
-
+	<table border="1">
+		<tr>
+			<th colspan="3">공연요금</th>
+		</tr>
+		<tr>
+			<td>구분</td>
+			<td>S석</td>
+			<td>VIP</td>
+		</tr>
+		<tr>
+			<td>성인</td>
+			<td>40,000원</td>
+			<td>60,000원</td>
+		</tr>
+		<tr>
+			<td>청소년</td>
+			<td>30,000원</td>
+			<td>50,000원</td>
+		</tr>
+		<tr>
+			<td>소인</td>
+			<td colspan="2">미취학 아동 일반 요금의 50%</td>
+		</tr>
+		<tr>
+			<td rowspan="2">공연시간</td>
+			<td>1회</td>
+			<td>13:00시 ~ 15:00시</td>
+		</tr>
+		<tr>
+			<td>2회</td>
+			<td>17:00시 ~ 19:00시</td>
+		</tr>
+	</table>
