@@ -2,9 +2,16 @@ Book Management System Project
 =============================
 
 1. 프로젝트 개요
-| 프로젝트 명 | AWS 기반 웹 주문시스템 구축 |
-| 투입공수 | 2M/M | 
-
+	<table border="1">
+		<tr>
+			<td>프로젝트 명</td>
+			<td>AWS 기반 웹 주문시스템 구축</td>
+		</tr>
+		<tr>
+			<td>투입 공수</td>
+			<td>2M/M</td>
+		</tr>
+	</table>
 
 2. 프로젝트 목표 및 요구사항
 
