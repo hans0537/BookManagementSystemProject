@@ -1,4 +1,4 @@
-Book Management System Project
+Book Management System Project{: .text-center }
 =============================
 
 1. 프로젝트 개요
