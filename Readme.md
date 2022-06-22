@@ -48,49 +48,115 @@ Book Management System Project
 최종 검수 > 프로젝트 정보보고 > 행정 및 결과 처리
 
 
-4. 주요 개발자원 (S/W)
-| 구 분 | 용 도 | 명칭 및 버전 |
-|---|---|---|
-| OS | 용 도 | 명칭 및 버전 |
-| 구 분 | 용 도 | 명칭 및 버전 |
-| 구 분 | 용 도 | 명칭 및 버전 |
-| 구 분 | 용 도 | 명칭 및 버전 |
-| 구 분 | 용 도 | 명칭 및 버전 |
-| 구 분 | 용 도 | 명칭 및 버전 |
-| 구 분 | 용 도 | 명칭 및 버전 |
-| 구 분 | 용 도 | 명칭 및 버전 |
-| 구 분 | 용 도 | 명칭 및 버전 |
-
-	<table border="1">
+**4. 주요 개발자원 (S/W)**
+<table border="1">
 		<tr>
-			<th colspan="3">공연요금</th>
+			<th>구 분</th>
+			<th>용 도</th>
+			<th>명칭 및 버전</th>
 		</tr>
-		<tr>
-			<td>구분</td>
-			<td>S석</td>
-			<td>VIP</td>
+		<tr align="center">
+			<td>OS</td>
+			<td>개발 PC</td>
+			<td>Windows 10</td>
 		</tr>
-		<tr>
-			<td>성인</td>
-			<td>40,000원</td>
-			<td>60,000원</td>
+		<tr align="center">
+			<td>WAS</td>
+			<td>WEB/WAS</td>
+			<td>Apach Tomcat 8.5</td>
 		</tr>
-		<tr>
-			<td>청소년</td>
-			<td>30,000원</td>
-			<td>50,000원</td>
+		<tr align="center">
+			<td>미들웨어</td>
+			<td>DB</td>
+			<td>Oracle Express Edition 11g0</td>
 		</tr>
-		<tr>
-			<td>소인</td>
-			<td colspan="2">미취학 아동 일반 요금의 50%</td>
+		<tr align="center">
+			<td rowspan="3">사용 언어</td>
+			<td>백 앤드</td>
+			<td>java jdk 1.8 , jsp/servlet 3.1</td>
 		</tr>
-		<tr>
-			<td rowspan="2">공연시간</td>
-			<td>1회</td>
-			<td>13:00시 ~ 15:00시</td>
+		<tr align="center">
+			<td>개발 프레임 워크</td>
+			<td>spring framework 5.0.2 </td>
 		</tr>
-		<tr>
-			<td>2회</td>
-			<td>17:00시 ~ 19:00시</td>
+		<tr align="center">
+			<td>프론트 앤드</td>
+			<td>HTML5 , CSS3 , JAVASCRIPT</td>
+		</tr>
+		<tr align="center">
+			<td rowspan="2">소프트웨어 개발도구</td>
+			<td>개발도구</td>
+			<td>Eclipse Jee</td>
+		</tr>
+		<tr align="center">
+			<td>DB</td>
+			<td>Sqldeveloper , dBeaver</td>
+		</tr>
+		<tr align="center">
+			<td>문서 작성</td>
+			<td>에디터</td>
+			<td>Microsoft Excel 2010,<br/>
+				Microsoft PowerPoint  2010,<br/>
+				한글 2010,<br/>
+				Notepad++
+			</td>
+		</tr>
+		<tr align="center">
+			<td>형상 관리</td>
+			<td>소스 관리 및 버전관리</td>
+			<td>Git hub , Git</td>
+		</tr>
+		<tr align="center">
+			<td rowspan="13">사용 라이브러리 및 API</td>
+			<td>관리</td>
+			<td>Maven</td>
+		</tr>
+		<tr align="center">
+			<td>db</td>
+			<td>Mybatis-3.5.3</td>
+		</tr>
+		<tr align="center">
+			<td>로그</td>
+			<td>Spring AOP , Log4j</td>
+		</tr>
+		<tr align="center">
+			<td>화면 레이아웃</td>
+			<td>Tiles3 </td>
+		</tr>
+		<tr align="center">
+			<td>디자인</td>
+			<td>Bootstrap , JQuery UI</td>
+		</tr>
+		<tr align="center">
+			<td>보안</td>
+			<td>Spring Security-5.0.8</td>
+		</tr>
+		<tr align="center">
+			<td>에디터</td>
+			<td>Ckeditor4</td>
+		</tr>
+		<tr align="center">
+			<td>우편주소</td>
+			<td>DaumPostCode</td>
+		</tr>
+		<tr align="center">
+			<td>썸네일</td>
+			<td>Thumnailator-0.4.8</td>
+		</tr>
+		<tr align="center">
+			<td>파일</td>
+			<td>Fileupload-1.3.1</td>
+		</tr>
+		<tr align="center">
+			<td>데이터 전송</td>
+			<td>Ajax , JSON</td>
+		</tr>
+		<tr align="center">
+			<td>엑셀</td>
+			<td>Poi-3.17</td>
+		</tr>
+		<tr align="center">
+			<td>화면 UI</td>
+			<td>JQuery-3.5.2</td>
 		</tr>
 	</table>
