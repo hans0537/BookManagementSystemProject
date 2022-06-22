@@ -1,7 +1,7 @@
 Book Management System Project
 =============================
 
-1. 프로젝트 개요
+**1. 프로젝트 개요
 	<table border="1">
 		<tr>
 			<td>프로젝트 명</td>
@@ -13,10 +13,10 @@ Book Management System Project
 		</tr>
 	</table>
 
-2. 프로젝트 목표 및 요구사항
+**2. 프로젝트 목표 및 요구사항
 
 쉽고 편리하고 신뢰할 수 있는 전사 통합정보시스템 구축
-{: .text-center }
+
 
 - AWS기반의 웹 도서 주문시스템을 구축
 - 구현과 수정이 용이한 시스템의 구축
@@ -27,7 +27,7 @@ Book Management System Project
 
 
 
-3. 개발 방법론
+**3. 개발 방법론
 
 3-1. 프로젝트 착수
 착수준비 > 프로젝트 계획 수립 >프로젝트 계획 확정
