@@ -1,6 +1,6 @@
-Book Management System Project.
-{: .text-center }
+Book Management System Project
 =============================
+{: .text-center }
 
 1. 프로젝트 개요
 	<table border="1">
